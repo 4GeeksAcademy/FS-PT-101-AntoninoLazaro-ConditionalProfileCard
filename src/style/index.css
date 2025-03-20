@@ -100,3 +100,8 @@
   border: none;
   border-radius: 0 0 3px 0;
 }
+.name-container {
+  display: flex;
+  gap: 10px; /* Espacio entre los nombres */
+  place-content: center;
+}
